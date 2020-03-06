@@ -1,0 +1,6 @@
+node_modules
+.vscode
+.DC_store
+/.eslintcache
+package-lock.json
+build
